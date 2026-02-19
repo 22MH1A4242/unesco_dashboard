@@ -63,10 +63,15 @@ project_folder/ │ ├── app.py ├── static/ │   └── images/ �
 
 1️⃣ Clone the repository
 https://github.com/22MH1A4242/unesco_dashboard.git
+
 2️⃣ Navigate to project folder
+
 3️⃣ Install dependencies
+
 4️⃣ Run the application
+
 5️⃣ Open in browser
+
 http://127.0.0.1:5000
 ---
 
