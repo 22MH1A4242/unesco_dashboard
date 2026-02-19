@@ -97,7 +97,7 @@ To demonstrate:
 
 ## 👩‍💻 Author
 
-Anjal
+Anjali Devi Medapati 
 
 ---
 
